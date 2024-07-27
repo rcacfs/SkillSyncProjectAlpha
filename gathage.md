@@ -18,14 +18,14 @@ git checkout development
 ### Create a feature branch (feature/suranme) and checkout to the new branch
 
 ```
-git checkout -b feature/gathage
+git checkout -b feature/<surname>
 ```
 ![Alt text](/images/checkout-surnamebranch.png?raw=true "New Branch")
 
 ### Create a .md file named (surname.md)
 
 ```
-touch gathage.md
+touch <surname>.md
 ```
 ![Alt text](/images/touch-file.png?raw=true "New .md file")
 
