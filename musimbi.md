@@ -17,6 +17,8 @@ git checkout -b feature/musimbi
 
 git switch -c feature/sitati
 ```
+
+![checkout](images/image.png)
 ### Create md file
 
 ```
