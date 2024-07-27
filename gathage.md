@@ -6,6 +6,8 @@
 ```
 git clone <repository-link>
 ```
+![Alt text](/images/git-clone.png?raw=true "Git clone")
+
 ### Checkout to the development branch
 
 ```
