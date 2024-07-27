@@ -1,7 +1,7 @@
 # **STEPS FOLLOWED TO CREATE MY FEATURE BRANCH**
 ## 1. Git clone the Skillsync public github repository
 - Navigated to directory to work in, in my case: skillsync
-- Used 'git clone' to copy the skillsync public github repository to my local machine
+- Used `git clone` to copy the skillsync public github repository to my local machine
 ```git clone https://github.com/rcacfs/SkillSyncProjectAlpha.git```
 ![clone](screenshots/screenshot1.png)
 
@@ -10,7 +10,7 @@
 ```
 cd SkillSyncProjectAlpha/
 ```
-- Checked the branch I was currently in which returned 'main'
+- Checked the branch I was currently in which returned *main*
 ```
 git branch
 ```
@@ -20,7 +20,7 @@ git checkout development
 ```
 ![checkout dev](screenshots/screenshot2.png)
 ## 3. Create a feature branch
-- Used the 'git branch' command to create a feature branch named feature/muriuki
+- Used the `git branch` command to create a feature branch named feature/muriuki
 ```
 git branch feature/muriuki
 ```
@@ -30,7 +30,7 @@ git branch feature/muriuki
 ```
 git checkout feature/muriuki
 ```
-- Confirmed the current branch by running 'git branch'
+- Confirmed the current branch by running `git branch`
 ```
 git branch
 ```
