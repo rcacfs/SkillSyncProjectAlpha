@@ -22,4 +22,4 @@ git switch -c feature/sitati
 ```
 touch musimbi.md
 ```
-![.md file]( image.png)
+![comment](images/image.png)
