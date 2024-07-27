@@ -1,3 +1,6 @@
+# Week Two Assignment <Github> 
+## Steps from how to clone a project, create and navigate to a new branch and creating .md files.
+
 ### Clone the repository
 
 ```
