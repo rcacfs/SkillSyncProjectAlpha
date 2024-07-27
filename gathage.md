@@ -20,6 +20,10 @@ git checkout development
 ```
 git checkout -b feature/<surname>
 ```
+#### You can git branch to confirm whether you are in the new branch
+```
+git branch
+```
 ![Alt text](/images/checkout-surnamebranch.png?raw=true "New Branch")
 
 ### Create a .md file named (surname.md)
