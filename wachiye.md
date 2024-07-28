@@ -10,8 +10,9 @@
         git clone https://github.com/rcacfs/SkillSyncProjectAlpha.git
             ```
 
-            ![clone repo](\images\clone repo.png)
-            
+
+  https://github.com/rcacfs/SkillSyncProjectAlpha/blob/feature/wachiye/images/clone%20repo.png
+  
 ## 2. Checkout to Development Branch
 
 1. I changed my directory to the cloned repository:
