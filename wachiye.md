@@ -10,7 +10,7 @@
         git clone https://github.com/rcacfs/SkillSyncProjectAlpha.git
             ```
 
-            ![clone repo]( C\SkillSync Bootcamp\SkillSyncProjectAlpha\images\clone repo.png)
+            ![clone repo](\images\clone repo.png)
             
 ## 2. Checkout to Development Branch
 
