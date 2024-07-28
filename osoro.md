@@ -22,7 +22,7 @@ git switch -c feature/sitati
 touch osoro.md
 
 ```
-![screenshot.jpg]
+![Images/screenshot.jpg]
 
 
 
