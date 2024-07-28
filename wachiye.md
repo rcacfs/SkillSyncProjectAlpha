@@ -9,7 +9,7 @@
     ```sh
         git clone https://github.com/rcacfs/SkillSyncProjectAlpha.git
             ```
-![clone repo](https://github.com/user-attachments/assets/3fda1cc4-c1fb-44a2-b684-9b3d96dfb845)
+![clone repo](https://github.com/user-attachments/assets/3fda1cc4-c1fb-44a2-b684-9b3d96dfb845)  
 
   
 ## 2. Checkout to Development Branch
@@ -24,6 +24,8 @@
     ```sh
         git checkout development
             ```
+    ![dvo branch](https://github.com/user-attachments/assets/dda2eaea-23f4-4a37-bc57-7804e827fdba)
+
 ## 3. Create a Feature Branch
 
 1. I created a new feature branch, replacing `your_surname` with my actual surname:
