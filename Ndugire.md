@@ -69,9 +69,9 @@ This assignment involved cloning a Git repository and navigating directories. I 
 <br><br><br>
 <b><i>Here are screenshots of the steps.</i></b> <be>
 
-![Screenshot from 2024-07-28 17-12-09](https://github.com/user-attachments/assets/a9bc890b-23dc-4bbb-9ce4-a255011cf7c4) <be>
-
 ![Screenshot from 2024-07-28 17-13-59](https://github.com/user-attachments/assets/53e224fb-3155-47dc-a1ec-cbf9d3d293c7) <br>
+
+![Screenshot from 2024-07-28 17-12-09](https://github.com/user-attachments/assets/a9bc890b-23dc-4bbb-9ce4-a255011cf7c4) <be>
 
 ![Screenshot from 2024-07-28 17-15-00](https://github.com/user-attachments/assets/fff61de3-129d-493a-8c96-dffd96e88d8f) <br>
 
