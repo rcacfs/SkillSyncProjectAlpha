@@ -33,6 +33,8 @@
     ```sh
         git checkout -b feature/wachiye
             ```
+    
+![feature branch](https://github.com/user-attachments/assets/457a8c7e-25ae-4589-a5c5-71cef41e75b4)
 
 ## 4. Verify I am on My Feature Branch
 
@@ -42,6 +44,8 @@
         git branch
             ```
         The command returned `* feature/wachiye` indicating that I was on the feature branch.
+    
+![verify branch](https://github.com/user-attachments/assets/5ed8b867-9798-4221-ba81-6f5aa038cae5)
 
 ## 5. Create a .md File Named wachiye.md
 
@@ -51,9 +55,13 @@
     ```sh
         touch  wachiye.md
             ```
+![md file](https://github.com/user-attachments/assets/09195e23-1498-4c92-90dd-673913291f5d)
+
 
 2. I opened this file in a text editor and added the steps I used to create the feature branch.
 
     ```sh
         vim wachiye.md
+![steps in file](https://github.com/user-attachments/assets/48b8657a-0c54-4957-869f-5190b2ad2616)
+
     
