@@ -16,9 +16,13 @@ This assignment involved cloning a Git repository and navigating directories. I 
      ```sh
      ls
      ```
-   - Then, I navigated into the project directory with:
+   - I navigated into the project directory with:
      ```sh
      cd SkillSyncProjectAlpha
+     ```
+   - Then, Open to edit README.md file using nano:
+     ```sh
+     nano README.md
      ```
 
 3. **Open Project in Visual Studio Code**
@@ -69,7 +73,9 @@ This assignment involved cloning a Git repository and navigating directories. I 
 <br><br><br>
 <b><i>Here are screenshots of the steps.</i></b> <be>
 
-![Screenshot from 2024-07-28 17-13-59](https://github.com/user-attachments/assets/53e224fb-3155-47dc-a1ec-cbf9d3d293c7) <br>
+![Screenshot from 2024-07-28 17-13-59](https://github.com/user-attachments/assets/53e224fb-3155-47dc-a1ec-cbf9d3d293c7) <be>
+
+![Screenshot from 2024-07-28 18-57-02](https://github.com/user-attachments/assets/a6f69d93-2da4-4594-8025-3b7cac7dbe41) <br>
 
 ![Screenshot from 2024-07-28 17-12-09](https://github.com/user-attachments/assets/a9bc890b-23dc-4bbb-9ce4-a255011cf7c4) <be>
 
