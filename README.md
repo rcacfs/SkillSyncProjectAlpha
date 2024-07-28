@@ -1,2 +1,2 @@
 This is my first file. <br><br> 
-Enjoying course so far
+Enjoying the course so far
