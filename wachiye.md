@@ -9,7 +9,8 @@
     ```sh
         git clone https://github.com/rcacfs/SkillSyncProjectAlpha.git
             ```
-    ![img 1](https://github.com/rcacfs/SkillSyncProjectAlpha/blob/feature/wachiye/images/clone%20repo.png)
+![clone repo](https://github.com/user-attachments/assets/3fda1cc4-c1fb-44a2-b684-9b3d96dfb845)
+
   
 ## 2. Checkout to Development Branch
 
