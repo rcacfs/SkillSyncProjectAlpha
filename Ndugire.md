@@ -51,6 +51,17 @@ This assignment involved cloning a Git repository and navigating directories. I 
 7. **Document Procedure with Screenshots**
    - I documented the entire procedure and included relevant screenshots.
 
+8. **Finally modified this file to add the 2 final steps - This and the following**
+   - I documented the entire procedure and included relevant screenshots.
+   created a new Markdown file using:
+     ```sh
+     git add Ndugire.md
+     git commit -m "Added documentation on Ndugire.md file"
+     git push -u origin feature/Ndugire
+     ```
+
+9. **Attach Screenshotd**
+   - I documented the entire procedure and included relevant screenshots.
 
 ---
 
