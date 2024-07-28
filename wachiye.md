@@ -24,7 +24,7 @@
     ```sh
         git checkout development
             ```
-    ![dvo branch](https://github.com/user-attachments/assets/dda2eaea-23f4-4a37-bc57-7804e827fdba)
+![dvo branch](https://github.com/user-attachments/assets/dda2eaea-23f4-4a37-bc57-7804e827fdba) 
 
 ## 3. Create a Feature Branch
 
