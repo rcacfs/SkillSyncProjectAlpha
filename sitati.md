@@ -13,14 +13,14 @@ git clone https://github.com/rcacfs/SkillSyncProjectAlpha.git
 git checkout feature/development
 ```
 
-![development branch](development branch.png)
+![development branch](development branched.png)
 ### create feature branch
 ```
 
 git check out -b feature/stary
 ```
 
-![creating new branch](creating new branch.png)
+
 
 ### create md file
 ```
@@ -28,4 +28,4 @@ git check out -b feature/stary
 touch sitati.md
 ```
 
-![new folder](open folder in vs.png)
+
