@@ -7,4 +7,3 @@ Week 2 Task 1
 ##Create and checkout feature branch
 
 ##Create .md file 
-
