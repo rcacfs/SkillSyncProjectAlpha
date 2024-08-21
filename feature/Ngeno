@@ -1,0 +1,66 @@
+# Assignment Documentation: SkillSyncProjectAlpha
+
+This assignment involved cloning a Git repository and navigating directories. I created a new feature branch, modified the README.md file, and documented the procedure using proper commands.
+
+## Steps Taken
+
+1. **Clone the Project Repository**
+   - I navigated to the target project directory using the `cd` command. In that directory, I cloned the repository to my local machine using the appropriate command.
+     ```sh
+     git clone https://github.com/rcacfs/SkillSyncProjectAlpha.git
+     ```
+
+2. **Verify Project Directory**
+   - I listed all folders using `ls`to ensure that I had cloned the above repository:
+     ```sh
+     ls
+     ```
+   - I navigated into the project directory with:
+     ```sh
+     cd SkillSyncProjectAlpha
+     ```
+   - Then, Open to edit README.md file using nano:
+     ```sh
+     nano README.md
+     ```
+
+3. **Open Project in Visual Studio Code**
+   - I decided to continue with Visual Studio Code, launching it using:
+     ```sh
+     code .
+     ```
+
+4. **Create a New Branch**
+   - I created a new branch named `feature/Ngeno` using:
+     ```sh
+     git checkout -b feature/Ngeno
+     ```
+
+5. **Modify README.md File**
+   - I added the statement "This is skillsync branch. And this is a branching strategy" to the shared `README.md` file.
+   - After saving the changes, I executed the following commands to stage, commit, and push the changes respectively:
+     ```sh
+     git add .
+     git commit -m "Initial Commit"
+     git push -u origin feature/Ngeno
+
+     ```
+
+6. **Create Ngeno.md File**
+   -  I created a new Markdown file in Vscode using:
+     ```sh
+     touch Ngeno.md
+     ```
+
+7. **Document Procedure with Screenshots**
+   - I documented the entire procedure and included relevant screenshots.
+
+8. **Finally modified this file to add the 2 final steps - This and the following**
+   - I documented the entire procedure and included relevant screenshots.
+   created a new Markdown file using:
+     ```sh
+     git add Ngeno.md
+     git commit -m "Added documentation on Ngeno.md file"
+     git push -u origin feature/Ngeno
+     ```
+<br><br><br>
